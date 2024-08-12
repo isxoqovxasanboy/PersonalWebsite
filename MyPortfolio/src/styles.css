@@ -1,0 +1,20 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  background: #221231;
+
+}
+.containerOut{
+  position: relative;
+  overflow-x: hidden;
+}
+
+.containerIn{
+  margin: 0 auto;
+  padding: 0;
+  height: 1024px;
+  width:100%;
+  position: relative;
+  overflow-x: hidden;
+  filter: blur(100px);
+}

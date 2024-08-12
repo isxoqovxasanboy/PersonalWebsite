@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo0MzU1NTI=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="44cbbda3-2c34-4b96-b0ee-c8479f253e7d" />
+              </chat>
+              <chat>
+                <internalId value="2b9918f5-7827-47af-98ca-f10fb1a66e77" />
+              </chat>
+              <chat>
+                <internalId value="b90a5768-0446-4c3f-a612-140f32510025" />
+              </chat>
+              <chat>
+                <internalId value="c39392e3-7338-45de-920f-20aaa685b5ed" />
+              </chat>
+              <chat>
+                <internalId value="e7aee296-1fda-4262-9ac0-7d7acfb2852e" />
+              </chat>
+              <chat>
+                <internalId value="32074860-3160-461e-b595-54c58c50b9a3" />
+              </chat>
+              <chat>
+                <internalId value="fae74f0b-28ae-4fe0-a84a-0331c8e9c776" />
+              </chat>
+              <chat>
+                <internalId value="d36b6bdc-5a0d-4de8-8eea-cabaad00a28f" />
+              </chat>
+              <chat>
+                <internalId value="1ee7376b-f874-414d-a2bc-0902ec6541ed" />
+              </chat>
+              <chat>
+                <internalId value="a837a47b-0171-4807-b56d-6f8c9527dbb0" />
+              </chat>
+              <chat>
+                <internalId value="81c10c57-375b-432f-921a-e39f3412696b" />
+              </chat>
+              <chat>
+                <internalId value="191d3931-b981-4454-9a62-094641a8af47" />
+              </chat>
+              <chat>
+                <internalId value="6db40882-957e-4c6f-a84c-31a661ab2886" />
+              </chat>
+              <chat>
+                <internalId value="d69b0520-9748-4225-9a9f-c6e50da9aac7" />
+              </chat>
+              <chat>
+                <internalId value="609d9756-8204-426f-bae3-3fa31c081c3a" />
+              </chat>
+              <chat>
+                <internalId value="b101ab47-0a24-4bb1-b0a6-f0abc3222a0a" />
+              </chat>
+              <chat>
+                <internalId value="5b318fbd-6fdf-4a8c-8100-965b5f91053f" />
+              </chat>
+              <chat>
+                <internalId value="109e485a-714d-47df-93ae-3c9583d3fb6c" />
+              </chat>
+              <chat>
+                <internalId value="d9eb60b4-15bd-4c12-858d-08db4c1e6b0c" />
+              </chat>
+              <chat>
+                <internalId value="4af2dea2-e536-46b9-9ac5-2f940926da9f" />
+              </chat>
+              <chat>
+                <internalId value="0bcac921-9042-4178-9ad4-a02ede024b6c" />
+              </chat>
+              <chat>
+                <internalId value="fe052267-3f92-4223-b642-98f6e5d8595c" />
+              </chat>
+              <chat>
+                <internalId value="6dc16308-f9a7-4c47-8e62-fbe37d364c11" />
+              </chat>
+              <chat>
+                <internalId value="49de59b5-f3e5-4abb-b4ab-adea5ff49e26" />
+              </chat>
+              <chat>
+                <internalId value="41c802ee-3ea3-45b6-aa5e-2fa68698466f" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="cf250239-ef90-441d-b6ae-7e2593965211" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="918be6bf-2633-43f0-953d-966b53a86e38" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="0934e33a-350f-452a-8e1c-ea369116d00d" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="3533d780-023a-4c0d-87fa-d58e5e07744d" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="8e446814-611a-47de-8d7e-92e24c3295c6" />
+                <llm>
+                  <llm>
+                    <model value="openai/gpt-3.5-turbo" />
+                    <provider value="OpenAI" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="speed" />
+                      </list>
+                    </tags>
+                    <title value="GPT-3.5 Turbo" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="How add text and how change position center in css" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="To add text and center it in CSS, you can use the following code:&#10;&#10;```css&#10;.text-center {&#10;  text-align: center;&#10;}&#10;```&#10;&#10;Then, apply the `text-center` class to the HTML element containing the text you want to center:&#10;&#10;```html&#10;&lt;div class=&quot;text-center&quot;&gt;&#10;  This text will be centered.&#10;&lt;/div&gt;&#10;```&#10;&#10;This will center the text horizontally within the containing element." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="i need text position center" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="To center text both horizontally and vertically in CSS, you can use the following code:&#10;&#10;```css&#10;.centered-text {&#10;  position: absolute;&#10;  top: 50%;&#10;  left: 50%;&#10;  transform: translate(-50%, -50%);&#10;}&#10;```&#10;&#10;Then, apply the `centered-text` class to the HTML element containing the text you want to center:&#10;&#10;```html&#10;&lt;div class=&quot;centered-text&quot;&gt;&#10;  This text will be centered both horizontally and vertically.&#10;&lt;/div&gt;&#10;```&#10;&#10;This will center the text both horizontally and vertically within the containing element." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-08-12T18:29:13.3055476" />
+              </chat>
+            </list>
+          </chats>
+          <defaultLlm>
+            <llm>
+              <model value="openai/gpt-3.5-turbo" />
+              <provider value="OpenAI" />
+              <tags>
+                <list>
+                  <option value="gateway" />
+                  <option value="speed" />
+                </list>
+              </tags>
+              <title value="GPT-3.5 Turbo" />
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>

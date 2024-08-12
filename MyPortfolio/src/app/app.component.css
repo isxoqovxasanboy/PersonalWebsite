@@ -1,0 +1,99 @@
+
+.shape1 {
+  width: 700px; /* Circle width */
+  height: 700px; /* Circle height */
+  background-color:#f47523;
+  border-radius: 99%; /* Makes it a circle */
+  position: absolute;
+  filter: blur(50px); /* Blurring the circle */
+  animation: one 20s infinite; /* Animation */
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  right: -200px;
+  top: -250px;
+  z-index: 10;
+}
+
+.shape2 {
+  width: 800px; /* Circle width */
+  height: 800px; /* Circle height */
+  background-color:#E71D36;
+  border-radius: 99%; /* Makes it a circle */
+  position: absolute;
+  filter: blur(50px); /* Blurring the circle */
+  animation: two 13s infinite; /* Animation */
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  right: 150px;
+  top: 70px;
+  z-index: 9;
+}
+.shape3 {
+  width: 600px; /* Circle width */
+  height: 600px; /* Circle height */
+  background-color:#6531F4;
+  border-radius: 50%; /* Makes it a circle */
+  position: absolute;
+  filter: blur(50px); /* Blurring the circle */
+  animation: three 15s infinite; /* Animation */
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  right: -150px;
+  top: 420px;
+  z-index: 8;
+}
+
+
+.shape4 {
+  width: 400px; /* Circle width */
+  height: 400px; /* Circle height */
+  background-color:#6531F4;
+  border-radius: 60%; /* Makes it a circle */
+  position: absolute;
+  filter: blur(50px); /* Blurring the circle */
+  animation: four 10s infinite; /* Animation */
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  right: 1200px;
+  top: 620px;
+}
+
+@keyframes one {
+  0%{right: -200px;top:-200px;}
+  25%{right: -200px;top: 200px;}
+  50%{right: 600px; top: 200px;}
+  75%{right: 600px;top: -200px;}
+  100%{right: -200px;top: -200px;
+  }
+}
+@keyframes two {
+  0%{right: 150px;top:70px;}
+  25%{right: -200px;top: -250px;}
+  50%{right: -150px; top: 180px;}
+  75%{right: 300px;top: 220px;}
+  100%{right: 150px;top: 70px;}
+}
+
+@keyframes three {
+  0%{right: -80px;top: 420px;}
+  25%{right: 1000px;top:420px;}
+  50%{right: 1000px;top:-20px;}
+  75%{right: 500px;top:150px;}
+  100%{right: -80px;top: 420px;}
+}
+@keyframes four{
+  0%{ right: 1200px;top: 620px;}
+  50% { right: 1200px;top: 0;}
+  100%{ right: 1200px;top: 620px;}
+}
+.romashPhoto{
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+}
+
+.romashPhoto img {
+  width: 591px;
+  height: 880px;
+}
+
