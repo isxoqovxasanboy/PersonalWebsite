@@ -1,0 +1,47 @@
+.name {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 46px;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+.job{
+  font-family: 'Inter', sans-serif; /* Set the font to Inter */
+  font-weight: bold; /* Set the font weight to bold */
+  font-size: 84px; /* Set the text size to 84px */
+  text-align: center; /* Align the text to the center */
+  color: #FFFFFF; /* Set the text color to #FFFFFF */
+  margin: 0; /* Remove default margins */
+  padding: 0; /* Remove default padding */
+  display: inline-block;
+  vertical-align: top;
+}
+.aboutTitle {
+  width: 524px; /* Set the width to 524px */
+  height: 104px; /* Set the height to 104px */
+  overflow: hidden; /* Hide overflow for fixed sizing */
+
+  /* Horizontal and Vertical resizing: Fixed */
+  resize: none; /* Disable resizing */
+  position: relative;
+  opacity: 0.7; /* Layer pass-through at 70% opacity */
+}
+
+.aboutTitle p {
+  font-family: 'Manrope', sans-serif; /* Set the font to Manrope */
+  font-weight: bold; /* Set the font weight to bold */
+  font-size: 18px; /* Set the text size to 18px */
+  line-height: 1.52; /* Set line height to 152% */
+  letter-spacing: 0.03em; /* Set letter spacing to 3% */
+  color: #FFFFFF; /* Set the text color to #FFFFFF */
+  margin: 0; /* Remove default margins */
+  padding: 0; /* Remove default padding */
+
+  /* Fixed size, Align left, Align top */
+  text-align: left; /* Align text to the left */
+  vertical-align: top; /* Align text to the top */
+}

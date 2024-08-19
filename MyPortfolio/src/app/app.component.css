@@ -97,3 +97,8 @@
   height: 880px;
 }
 
+.introduction-component{
+  position: absolute;
+    top: 30%;
+    left: 100px;
+}
